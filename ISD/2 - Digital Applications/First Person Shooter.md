@@ -34,7 +34,7 @@ tags:
 > #### Practical
 > - [x] [Accept FPS Assignment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Accept%20FPS%20Assignment.md)
 > - [ ] Open Game in Godot 4.2.2
-> - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
+> - [x] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
 > - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
 
 > [!info]- Week 2
@@ -50,6 +50,9 @@ tags:
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
+> 
+> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
 > Worth 25%.
