@@ -26,27 +26,27 @@ tags:
 > #### Class Tasks
 > - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > - [x] [Technical Analysis - First Person Shooters](ISD/2%20-%20Digital%20Applications/_topics/theory/Technical%20Analysis%20-%20First%20Person%20Shooters.md)
-> - [ ] [Project Timeline](ISD/2%20-%20Digital%20Applications/_topics/theory/Project%20Timeline.md)
+> - [x] [Project Timeline](ISD/2%20-%20Digital%20Applications/_topics/theory/Project%20Timeline.md)
 > #### Theory
-> - [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
-> - [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
-> - [ ] [Project Context](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Project%20Context.md)
+> - [x] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
+> - [x] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
+> - [x] [Project Context](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Project%20Context.md)
 > #### Practical
 > - [x] [Accept FPS Assignment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Accept%20FPS%20Assignment.md)
-> - [ ] Open Game in Godot 4.2.2
+> - [x] Open Game in Godot 4.2.2
 > - [x] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
-> - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
+> - [x] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
 > #### Class Tasks
 > N/A
 > #### Theory
->- [ ] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
->- [ ] [State Design Pattern](ISD/2%20-%20Digital%20Applications/_topics/theory/State%20Design%20Pattern.md)
+>- [x] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
+>- [x] [State Design Pattern](ISD/2%20-%20Digital%20Applications/_topics/theory/State%20Design%20Pattern.md)
 > #### Practical
-> - [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
-> - [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
+> - [x] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
+> - [x] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
@@ -63,20 +63,20 @@ tags:
 > #### Class Tasks
 > N/A
 > #### Theory
-> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> - [x] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
 > #### Practical
-> - [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy|Enemy]]
-> - [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy Pathfinding|Enemy Pathfinding]]
-> - [ ] Continue Developing your environment.
+> - [x] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy|Enemy]]
+> - [x] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy Pathfinding|Enemy Pathfinding]]
+> - [x] Continue Developing your environment.
 
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
 > N/A
 > #### Theory
-> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> - [x] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
 > #### Practical
-> - [ ] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
+> - [x] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
 > - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
 
 > [!info]- Week 6
