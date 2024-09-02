@@ -77,7 +77,7 @@ tags:
 > - [x] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
 > #### Practical
 > - [x] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
-> - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
+> - [x] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]
@@ -86,7 +86,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Objects Taking Damage](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Objects%20Taking%20Damage.md)
+> - [x] [Objects Taking Damage](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Objects%20Taking%20Damage.md)
 
 > [!info]- Week 7
 > ![[semesterCalendarS2#School Events - Week 7]]
@@ -95,7 +95,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Points](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Points.md)
+> - [x] [Points](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Points.md)
 
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
