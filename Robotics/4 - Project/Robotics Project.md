@@ -46,16 +46,16 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Phase 1 Development](Robotics/4%20-%20Project/_projects/CyberRange/Phase%201%20Development.md)
 
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
-> N/A
+> - [ ] [Assessment Documentation](Robotics/4%20-%20Project/_projects/CyberRange/Assessment%20Documentation.md)
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Phase 1 Development](Robotics/4%20-%20Project/_projects/CyberRange/Phase%201%20Development.md)
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]
