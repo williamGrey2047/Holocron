@@ -104,8 +104,8 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Win Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Win%20Conditions.md)
-> - [ ] [Lose Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Lose%20Conditions.md)
+> - [x] [Win Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Win%20Conditions.md)
+> - [x] [Lose Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Lose%20Conditions.md)
 
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
@@ -114,7 +114,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Player Health](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Player%20Health.md)
+> - [x] [Player Health](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Player%20Health.md)
 
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
