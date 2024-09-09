@@ -138,6 +138,15 @@ N/A
 
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
+
+ ![Introduction](https://youtu.be/7B6QERTeYYU)
+ 
+  ![Assessment](https://youtu.be/uCfS1UTsFUA)
+  
+  ![Practical](https://youtu.be/0rY4fMPQtwk)
+ 
+  
+  
 #### Class Tasks
 - [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
@@ -149,7 +158,7 @@ N/A
  ![[semesterCalendarS2#School Events - Week 9]]
 #### Class Tasks
 - [ ] [Personas](/WebDev/_shared/Projects/ANH/personas.md)
-##### Theory
+#### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
 #### Practical
 - [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
