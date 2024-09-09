@@ -84,7 +84,8 @@ tags:
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
-> N/A
+> - [ ] ICTSAS305 Provide ICT Advice to Clients VET competency.
+> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) 
 > #### Theory
 > N/A
 > #### Practical
