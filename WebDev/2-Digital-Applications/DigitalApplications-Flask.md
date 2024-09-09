@@ -138,6 +138,15 @@ N/A
 
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
+
+ ![Introduction](https://youtu.be/7B6QERTeYYU)
+ 
+  ![Assessment](https://youtu.be/uCfS1UTsFUA)
+  
+  ![Practical](https://youtu.be/0rY4fMPQtwk)
+ 
+  
+  
 #### Class Tasks
 - [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
