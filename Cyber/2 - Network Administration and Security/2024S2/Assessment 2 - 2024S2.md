@@ -31,6 +31,19 @@ TBA
 Remember this entire section is meant to amount to around 1000 words so if you have 10 weeks worth of development process those summaries either need to be combined or need to be ~100 words each.
 This weekly summary may not work depending on your project. It may be worthwhile to use this scaffold to put into words what was done to complete the project. However you may want to reorder or combine sections depending on how it will be best displayed. 
 
+**Tips for Writing**
+
+- Describe the technical specifications of the servers and the software to be installed.
+- Explain the step-by-step process of server installation, including any software prerequisites or dependencies.
+- Detail the configuration settings for each server, including network, operating system, and application settings.
+- Document any troubleshooting or optimisations performed during the installation and configuration process.
+
+- Use clear and concise language, avoiding technical jargon whenever possible.
+- Include detailed descriptions, screenshots, or diagrams to illustrate the installation and configuration process.
+- Ensure your findings are supported by evidence and be objective in your analysis.
+- Proofread carefully for accuracy and consistency.
+- Seek feedback from peers or a reviewer to improve clarity and objectivity.
+
 
 ## Technical Analysis
 
