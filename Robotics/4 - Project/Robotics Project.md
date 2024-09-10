@@ -130,6 +130,7 @@ tags:
 > 
 > #### Class Tasks
 > - [ ] Vet Competencies
+> - [ ] CTF Event Thursday
 > #### Theory
 > N/A
 > #### Practical
