@@ -38,6 +38,9 @@ Pick a complex route and analyse that to demonstrate an understanding of the who
 
 Focus on how data is transmitted within the project from one sub-system to another, within the focus given in the assessment documentation.
 
+
+
+
 ## Development Process
 
 - Brief 2-4 sentence summary for each week of what that week of development involved
@@ -64,7 +67,7 @@ Critically, this section should focus on the **planned** vs **actual** implement
 
 You could display this information (as evidence) as a *Gantt chart*. 
 
-Present the two Gantt charts, as shown below, and then analyse the changes or differences and why the changes occurred. You could look at the GitHub repository history to see how the project was actual implemented.
+Present the two Gantt charts, as shown below, and then analyse the changes or differences and why the changes occurred. You could look at the GitHub repository history to see how the project was actually implemented.
 
 **Proposed Implementation**
 
