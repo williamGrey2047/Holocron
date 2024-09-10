@@ -4,7 +4,7 @@
 
 For this section, you should introduce the whole project, not just the coding requirements, but also the time management and project management. 
 
-Time management could include:
+Time management could include high level analysis of:
 - weeks involved
 - how the tasks were organised into the different stages etc.
 
@@ -58,4 +58,46 @@ TBA
 
 ## Work Skills
 
-TBA
+In this section, concentrate on the stages of project implementation.  Following on from the small time management section within the Project Overview, show more detail regarding the implementation process. 
+
+Critically, this section should focus on the **planned** vs **actual** implementation. You could also include a plan for implementation if you were going to start the same or similar project, using your experience to be more efficient - this could cover some or all of the critical analysis level of the rubric.
+
+You could display this information (as evidence) as a *Gantt chart*. 
+
+**Proposed Implementation**
+
+```mermaid
+gantt
+    title Project Implementation
+    dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    section Planning
+        Design           :planning1, 2024-07-22, 7d
+        Group Organisation:planning2, after planning1, 1d
+        Subsystem Detail Formalisation    :planning3, after planning2, 7d
+		Final Sign off.  :planning4, after planning3, 7d
+    section Implementation
+        Task 1 :imp1, 2024-08-13, 14d
+        Group 1 Task 2 :imp2, after imp1, 24d
+        Group 2, Task 2 :imp3, after imp1, 24d 
+```
+
+
+**Actual Implementation**
+
+```mermaid
+gantt
+    title Project Implementation
+    dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    section Planning
+        Design           :planning1, 2024-07-22, 7d
+        Group Organisation:planning2, after planning1, 1d
+        Subsystem Detail Formalisation    :planning3, after planning2, 7d
+		Final Sign off.  :planning4, after planning3, 7d
+    section Implementation
+        Task 1 :imp1, 2024-08-13, 1d
+        Group 1 Task 2 :imp2, after imp1, 3d
+        Group 2 Task 2 :imp3, after imp1, 14d 
+        Group 1 Task 3: imp4, after imp2, 10d
+```
