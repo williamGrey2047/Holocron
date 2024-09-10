@@ -1,4 +1,3 @@
-
 > [!important] View the assessment on Google Classroom for specific details.
 
 # Technical Report
@@ -21,6 +20,15 @@ These are the details you are to cover in the topics in Assessment 2. More Speci
 
 ![[_sharedContent/Assessments2024S2/Task 2#Development Process|Task 2]]
 
+```mermaid
+timeline
+    title Weapons
+    Week 2 : AK47
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
 
 
 ![[_sharedContent/Assessments2024S2/Task 2#Technical Analysis|Task 2]]
