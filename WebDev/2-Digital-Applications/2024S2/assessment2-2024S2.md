@@ -1,6 +1,13 @@
 
 > [!important] View the assessment on Google Classroom for specific details.
 
+# Technical Report
+
+For suggestions on how to structure your report, see this page:
+
+[Technical Report Writing](_sharedContent/technicalReportWriting.md)
+
+
 # Assessable Topics 
 
 These are the details you are to cover in the topics in Assessment 2. More Specific Details will be added later in the document.
@@ -9,15 +16,42 @@ These are the details you are to cover in the topics in Assessment 2. More Speci
 
 ## Project Overview
 
-TBA
+### Project Introduction
+
+For this section, you should introduce the whole project, not just the coding requirements, but also the time management and project management. 
+
+Time management could include:
+- weeks involved
+- how the tasks were organised into the different stages etc.
+
+Project Management could focus on:
+- How GitHub was used.
+
+### Requirements
+
+In this part detail and analyse the hardware **and** software requirements for the project.
+
+### Intended Outcomes
+
+Analyse what the outcomes of the project were, focusing on the end-user experience.
+
+### Purpose
+
+In this part, focus on the purpose of the project (not just the end product). For instance what learning outcomes could come from project etc.
 
 ## Code
 
-TBA
+In this section, focus **only on the aspect identified**. 
+
+Analyse the code, and explain how that code operates and the purpose of each block of code. You should also analyse how this code interacts with other sub-systems within the project.
+
+> [!tip] You **don't** need to explain every single line of code.
+
+
 
 ## Data
 
-TBA
+Focus on how data is transmitted within the project from one sub-system to another, within the focus given in the assessment documentation.
 
 ## Development Process
 

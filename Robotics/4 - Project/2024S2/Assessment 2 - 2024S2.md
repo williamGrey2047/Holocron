@@ -1,6 +1,12 @@
 
 > [!important] View the assessment on Google Classroom for specific details.
 
+# Technical Report
+
+For suggestions on how to structure your report, see this page:
+
+[Technical Report Writing](_sharedContent/technicalReportWriting.md)
+
 # Assessable Topics 
 
 These are the details you are to cover in the topics in Assessment 2. More Specific Details will be added later in the document.
