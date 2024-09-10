@@ -89,10 +89,12 @@ tags:
 > #### Practical
 > N/A
 
+
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> N/A
+>  - [ ] VET Competencies
+>  - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
