@@ -64,6 +64,8 @@ Critically, this section should focus on the **planned** vs **actual** implement
 
 You could display this information (as evidence) as a *Gantt chart*. 
 
+Present the two Gantt charts, as shown below, and then analyse the changes or differences and why the changes occurred. You could look at the GitHub repository history to see how the project was actual implemented.
+
 **Proposed Implementation**
 
 ```mermaid
@@ -75,11 +77,11 @@ gantt
         Design           :planning1, 2024-07-22, 7d
         Group Organisation:planning2, after planning1, 1d
         Subsystem Detail Formalisation    :planning3, after planning2, 7d
-		Final Sign off.  :planning4, after planning3, 7d
+		Final Sign-off.  :planning4, after planning3, 7d
     section Implementation
         Task 1 :imp1, 2024-08-13, 14d
         Group 1 Task 2 :imp2, after imp1, 24d
-        Group 2, Task 2 :imp3, after imp1, 24d 
+        Group 2, Task 2:imp3, after imp1, 24d 
 ```
 
 
@@ -94,7 +96,7 @@ gantt
         Design           :planning1, 2024-07-22, 7d
         Group Organisation:planning2, after planning1, 1d
         Subsystem Detail Formalisation    :planning3, after planning2, 7d
-		Final Sign off.  :planning4, after planning3, 7d
+		Final Sign-off.  :planning4, after planning3, 7d
     section Implementation
         Task 1 :imp1, 2024-08-13, 1d
         Group 1 Task 2 :imp2, after imp1, 3d
