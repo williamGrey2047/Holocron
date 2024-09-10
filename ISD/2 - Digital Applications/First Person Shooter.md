@@ -112,7 +112,8 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> N/A
+> - [ ] VET Competencies
+> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
