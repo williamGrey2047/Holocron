@@ -4,7 +4,7 @@
 
 For this section, you should introduce the whole project, not just the coding requirements, but also the time management and project management. 
 
-Time management could include high level analysis of:
+Time management could include high-level analysis of:
 - weeks involved
 - how the tasks were organised into the different stages etc.
 
@@ -50,14 +50,36 @@ Focus on how data is transmitted within the project from one sub-system to anoth
 	- Explain how previous learning and work contributed to your ability to complete this week or work.
 <strong>Screenshots as evidence is always good</strong>
 Remember this entire section is meant to amount to around 1000 words so if you have 10 weeks worth of development process those summaries either need to be combined or need to be ~100 words each.
-This weekly summary may not work depending on your project. It may be worthwhile to use this scaffold to put into words what was done to complete the project. However you may want to reorder or combine sections depending on how it will be best displayed. 
+This weekly summary may not work depending on your project. It may be worthwhile to use this scaffold to put into words what was done to complete the project. However, you may want to reorder or combine sections depending on how it will be best displayed. 
 
-Example for notes taken during week 8, could be copy pasted into assessment document (do not copy this, that is plagiarism):
-During the 8th week of the development process I began implementing a new page in the A New Hope website that would allow a user to create shopping lists that they could add a series of items to. This step in the implementation only allowed for new shopping lists to be created, this page will be later iterated on by adding functionalities that allow for items to be added to the shopping lists. This page also used the `shopping_lists` table created previously. I used the baseline template structure I have used to create previous websites but adjusted the `{% block rowTwoColOneContent %}` and `{% block rowTwoColTwoContent %}` contents to add an input space for users to input their shopping list names and a display to have the website continually display the list of shopping lists. I then updated `app.py` to include a route that can use the `GET` and `POST` methods to take data from the `shopping_lists` table to display on the page and also send data to that table.
+
 
 ## Technical Analysis
 
-TBA
+This section of the report should focus on a certain topic of the project. You may be required to analyse code, configurations or how components were developed, or different aspects, depending on the requirements of the section (see the assessment document).
+
+The use of screenshots, videos, and diagrams are highly encouraged to convey complex information in an easily understood medium.
+
+You may find the basic structure below to be beneficial to structuring your response.
+
+```mermaid
+
+graph LR;
+
+Introduction-->Evidence-->Explain-->Analysis;
+
+Analysis-->crit["Critical Analysis"];
+crit-->Evidence
+
+```
+
+This diagram indicates how you could :
+1. **introduce** the topic required, 
+2. Provide **evidence** (screenshots, diagram, video etc)
+3. **Explain** the importance of the evidence (or the part you wish to highlight)
+4. Provide a technical **Analysis** of the evidence (e.g. deep-dive on technical aspects of evidence/topic), and finally
+5. Compare or evaluate (provide a **Critical Analysis**) of the approach taken shown in the evidence against other approaches. 
+
 
 ## Work Skills
 
