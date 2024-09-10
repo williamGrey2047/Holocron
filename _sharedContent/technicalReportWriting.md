@@ -26,20 +26,19 @@ For the assessment task, you are required to include Use Case Diagrams to explai
 
 ## Use Case Diagrams
 
-> The purpose of a use case diagram in UML is to demonstrate the different ways that a user might interact with a system.
-[https://www.lucidchart.com/pages/uml-use-case-diagram](https://www.lucidchart.com/pages/uml-use-case-diagram)
+> [!tip] The purpose of a use case diagram in UML is to demonstrate the different ways that a user might interact with a system.
+> [https://www.lucidchart.com/pages/uml-use-case-diagram](https://www.lucidchart.com/pages/uml-use-case-diagram)
+
+> [!tip] Use case diagrams are used to gather the requirements of a system including internal and external influences.
+> [https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
 > 
 
-> Use case diagrams are used to gather the requirements of a system including internal and external influences.
-[https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
-> 
-
-> “…the purposes of use case diagrams can be said to be as follows −
+“…the purposes of use case diagrams can be said to be as follows −
 - Used to gather the requirements of a system.
 - Used to get an outside view of a system.
 - Identify the external and internal factors influencing the system.
-- Show the interaction among the requirements are actors.”
-> 
+- Show the interaction among the requirements are actors.
+
 
 ### Examples
 

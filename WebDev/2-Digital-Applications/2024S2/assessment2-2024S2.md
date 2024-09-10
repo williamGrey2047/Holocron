@@ -47,6 +47,30 @@ Analyse the code, and explain how that code operates and the purpose of each blo
 
 > [!tip] You **don't** need to explain every single line of code.
 
+Pick a complex route and analyse that to demonstrate an understanding of the whole script.
+
+**Web Dev Example**
+
+Your goal for this section is to prove that you can analyse all the code through the analysis of one route.
+
+Include a diagram to explain the overall code base (`app.py`, `models.py`, `forms.py`, templates etc). One diagram you could include how `app.py` fits into the larger picture of the structure of a flask project, and the interactions of `app.py` with the other modules in the project.
+
+
+Pick one route, preferably a complex route, and analyse that one. For example `resumeBuild` (there may be a more suitable option however):
+![resumeBuildRoute](/WebDev/2-Digital-Applications/2024S2/_images/resumeBuildRoute.png)
+
+In this route, you could analyse
+- what a `POST` and a `GET` request is, and how that links with `if request.method == 'POST'`
+- How the route links to the flask framework and a URL in the browser.
+- specific lines such as `resume_details = ResumeExperience.query.filter_by(userID=current_user.id).all()` and how that interacts with the database
+- How the `new_resume=` and `new=referee` lines of code create new objects.
+- Why each `if` block includes `db.session.add()` and `db.session.commmit()` code. Could there be a better way of doing it?
+- What `return redirect()` and `return render_template()` statements do.
+
+> [!tip] There could be much more for you to analyse. This is just a short list.
+
+All of these topics will require further research - and references.
+
 
 
 ## Data
