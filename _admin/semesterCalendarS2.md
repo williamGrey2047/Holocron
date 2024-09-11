@@ -78,7 +78,8 @@ No Classes.
 **Friday** - Course Scores Published on BSSS.
 
 #### School Events - Week 18
-No Classes.
+**Thursday** - Year 11 TRaC Three-way Interviews
+**Friday** - Year 11 TRaC Three-way Interviews
 
 #### School Events - Week 19
 No Classes.

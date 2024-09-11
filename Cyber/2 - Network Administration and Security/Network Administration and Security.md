@@ -164,6 +164,12 @@ tags:
 > **Catchup Week** for assessments.
 > If you have completed assessment tasks, focus on your VET competencies.
 
+> [!info]- Week 17
+> ![[semesterCalendarS2#School Events - Week 17]]
+
+> [!info]- Week 18
+> ![[semesterCalendarS2#School Events - Week 18]]
+
 
 # Subject Information
 

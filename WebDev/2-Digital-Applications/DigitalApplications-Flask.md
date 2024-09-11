@@ -67,7 +67,7 @@ Submit the assigned Google Doc with the following information:
  ![[semesterCalendarS2#School Events - Week 3]]
 ![Assessment 1 Overview](https://youtu.be/mkUcSVH3ZUY)
  
- [Assessment Assistance](/_sharedContent/Assessments2024S2/Task1.md)
+ [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
 
 
 
@@ -239,6 +239,12 @@ N/A
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek16.md)
 #### Practical
 N/A
+
+### Week 17
+ ![[semesterCalendarS2#School Events - Week 17]]
+### Week 18
+ ![[semesterCalendarS2#School Events - Week 18]]
+
 
 # Subject Information
 
