@@ -156,9 +156,9 @@ N/A
 ### Week 9
  ![[semesterCalendarS2#School Events - Week 9]]
 #### Class Tasks
-- [ ] [Personas](/WebDev/_shared/Projects/ANH/personas.md)
-#### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
+#### Theory
+- [ ] [[_sharedContent/Personas|Personas]]
 #### Practical
 - [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
