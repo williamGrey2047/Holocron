@@ -167,11 +167,12 @@ tags:
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                                                          |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                                                  |
+|                  | [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                                                  |
+|                  |                                                                                                                      |
 
 # Contact Details
 

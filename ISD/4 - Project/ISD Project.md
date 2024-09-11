@@ -189,11 +189,11 @@ Section 1 should be completed by end of week 8
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                   |
+|                  | [Assessment 2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                   |
 
 # Contact Details
 

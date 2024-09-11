@@ -242,11 +242,11 @@ N/A
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                      |
+|                  | [assessment2-2024S2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                      |
 
 
 ![[commonBlocks#Contact Details]]
