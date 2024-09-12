@@ -66,10 +66,10 @@ You may find the basic structure below to be beneficial to structuring your resp
 
 graph LR;
 
-Introduction-->Evidence-->Explain-->Analysis;
+Introduction--> Evidence-->Explain-->Analysis;
 
 Analysis-->crit["Critical Analysis"];
-crit-->Evidence
+crit-->|Provide more if required| Evidence
 
 ```
 
