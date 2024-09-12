@@ -91,16 +91,47 @@ Add a new `route` that will have `GET` and `POST` methods.
 
 for Route the the list_items = db.session. (advise students that explaining this line in their reports is a high order thinking prompt, this will get you good marks. The join part is )
 
-## ticking off items
+## Ticking off items
 
 The last capability we want to add is to allow A New Hope to be able to tick whether or not certain items have been purchased from the shopping list and to also be able to remove items from the shopping list entirely.
 
-To do this we will need 2 new routes in `app.py`
+### Template changes
+
+First things first we need to adjust our web page template `shoppingList.html` in order to add clickable symbols that trigger `routes` in app.py. This will go in `{% block rowTwoColTwoContent %}`.
+
+There should be three total symbols but only 2 should display at a time. 
+The first will either be a Tick of a Cross so that the Cross is displayed if the `Completed` column in the `Shopping List Items` table is set to false indicating that the item has not been completed yet.
+	Use an if statement to have this alternate between a Cross and a Tick to show whether or not the item has been completed.
+	Clicking the cross of the tick should trigger a `route` that changes the `Completed` column in the `Shopping List Items` table to true if false or false if true.
+The last symbol should be a Bin and trigger a `route` upon clicking that deletes the item.
+
+The `routes` that these symbols call will be covered in the next section.
+
+>[!info]- Hint
+>The page should look something like this once the next section if completed.
+>it won't work fully until the changes to `app.y` have been implemented
+>***placeholder for screenshot of page with these changes implemented***
+
+
+### app.py
+
+We need 2 new `routes` in `app.py`:
 
 The first will change the `complete` boolean from the `Shopping List Items` from 1 to 0 or 0 to 1.
 	Remember how you created all of your routes in the past
+	The route will need to extract the `ID` value from the 1 `Shopping List Items` table by querying the `Shopping List Items` table and assigning a variable to the `ID`
+	Then use the variable you've created to change the boolean `Completed` column in that particular `ID`
+	`commit()` these changes
 
 The second will remove the shopping list item from the database entirely.
+	Same as before we need to extract the `ID` of the particular item in the `Shopping List Items` table so that we know which item we are affecting.
+	We will need to `delete()` the item from the table
+	`commit()` the changes
 
-2 new 
+Remember that at the end of both of these `routes` we need to `return.redirect(url_for())` to reload the same page again with the updated information.
+
+>[!info]- Hint
+>Ensure that these routes have names that are called by the symbols. SPELLING MATTERS A LOT HERE. CAP SENSITIVE
+>
+
 For extension. Will need another column in the table that is enabled/disable and determines if the item is displayed
