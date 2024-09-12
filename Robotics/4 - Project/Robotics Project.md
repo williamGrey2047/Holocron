@@ -89,10 +89,12 @@ tags:
 > #### Practical
 > N/A
 
+
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> N/A
+>  - [ ] VET Competencies
+>  - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -130,6 +132,7 @@ tags:
 > 
 > #### Class Tasks
 > - [ ] Vet Competencies
+> - [ ] CTF Event Thursday
 > #### Theory
 > N/A
 > #### Practical
@@ -161,15 +164,21 @@ tags:
 > **Catchup Week** for assessments.
 > If you have completed assessment tasks, focus on your VET competencies.
 
+> [!info]- Week 17
+> ![[semesterCalendarS2#School Events - Week 17]]
+
+> [!info]- Week 18
+> ![[semesterCalendarS2#School Events - Week 18]]
+
 
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                   |
+|                  | [Assessment 2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                   |
 
 # Contact Details
 
