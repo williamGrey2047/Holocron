@@ -44,7 +44,7 @@ Focus on how data is transmitted within the project from one sub-system to anoth
 ## Development Process
 
 - Brief 2-4 sentence summary for each week of what that week of development involved
-	- What did you add to the Website?
+	- What did you add to the Project?
 	- How does your addition fit into the grand scheme of the project?
 	- What new skills were required to make these additions?
 	- Explain how previous learning and work contributed to your ability to complete this week or work.

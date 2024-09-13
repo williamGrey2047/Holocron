@@ -63,8 +63,8 @@ Now edit `{% block rowTwoColOneContent %}` to add a form that will allow a new i
 Also edit `{% block rowTwoColTwoContent %}` to display the items in the shopping list that is currently open.
 
 >[!info]- Hint
->Once implemented the webpage should look something like:
->	**placeholder for image of the completed webpage**
+>Once implemented the webpage should look something like (remember you still need to add functionality to `app.y` before it will be able to add items to the lists and show those items in `{% block rowTwoColTwoContent %}`):
+>![](WebDev/_shared/Projects/ANH/images/shoppingListItemExample1.png)
 
 Also make sure you add a link to this new template to `base.html`
 ``` html
@@ -110,7 +110,9 @@ The `routes` that these symbols call will be covered in the next section.
 >[!info]- Hint
 >The page should look something like this once the next section if completed.
 >it won't work fully until the changes to `app.y` have been implemented
->***placeholder for screenshot of page with these changes implemented***
+>If these red crosses are clicked the Boolean value `Completed` will change and the red cross will change to a green tick.
+>If the bin is clicked the item will be removed from the shopping list all together
+>![](WebDev/_shared/Projects/ANH/images/shoppingListItemExample2.png)
 
 
 ### app.py
@@ -135,3 +137,4 @@ Remember that at the end of both of these `routes` we need to `return.redirect(u
 >
 
 For extension. Will need another column in the table that is enabled/disable and determines if the item is displayed
+![](WebDev/_shared/Projects/ANH/images/pin.png)

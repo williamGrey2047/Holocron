@@ -117,8 +117,10 @@ Section 1 should be completed by end of week 8
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> - [ ] VET Competencies
+> - [ ] [VET Competencies](https://classroom.google.com/c/NjQ5OTU5NDgxMDQw/a/NzEwNDU3NzEwMjI3/details)
+> 	- By the end of this week this competency should be entirely complete. Ensure you have all of your evidence added and are tagging Ryan in the document so that he can confirm that the **Client only** sections have been completed.
 > - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should have the development process section drafted and ready to submit at the end of this week. Jacob will be reviewing and providing feedback on this section.
 > #### Theory
 > N/A
 > #### Practical
@@ -127,7 +129,9 @@ Section 1 should be completed by end of week 8
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> N/A
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should be able to access the feedback on your development process section now. Review these and have a look at the feedback.
+> 	- The assessment documentation scaffold page has been populated for each section now. These should make it very easy to write up your assessment well before the due date. The whole document is due in week 12. ith 3 weeks left (not including the school holidays) you have plenty of time to work through the linked page and write up your assessment documentation.
 > #### Theory
 > N/A
 > #### Practical
