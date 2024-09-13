@@ -176,7 +176,7 @@ N/A
 ### Week 11
  ![[semesterCalendarS2#School Events - Week 11]]
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
+- [ ] [assessment2-2024S2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek11.md)
 #### Practical
@@ -190,7 +190,7 @@ The task will be due Friday 11:59pm.
 Worth 50%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-- [ ] [assessment2Finalisation](/WebDev/2-Digital-Applications/_topics/assessment2Finalisation.md)
+- [ ] [assessment2-2024S2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
  - [ ] Submit Assessment 2
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
@@ -218,11 +218,10 @@ N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
 **Assessment Week**  
-This assessment task is a **live** interview.  This will be done via Google Meet.
+This assessment task is an **in person** interview. Your specific timeslot will be posted to Google Classroom with the assessment.
 
 You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.  
 Your interview and any documentation you bring to the interview will be assessed.  
-You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
 Worth 25%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
