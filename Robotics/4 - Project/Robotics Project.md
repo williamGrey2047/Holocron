@@ -104,6 +104,8 @@ tags:
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
+> - [ ] VET Competency
+> 	- Ensure that you have at least done competency [# ICTSAS305 Provide ICT advice to clients](https://classroom.google.com/c/NjQ5OTU4MzU4NjY5/a/NzExMjY0MDk4MTUw/details) by the end of term. There are more competencies on the Google Classroom that will help you towards your Cert III. At this stage in your college career you are more than capable of providing evidence for every single one.
 > - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > 	- You should be able to access the feedback on your development process section now. Review these and have a look at the feedback.
 > 	- The assessment documentation scaffold page has been populated for each section now. These should make it very easy to write up your assessment well before the due date. The whole document is due in week 12. With 3 weeks left (not including the school holidays) you have plenty of time to work through the linked page and write up your assessment documentation.
