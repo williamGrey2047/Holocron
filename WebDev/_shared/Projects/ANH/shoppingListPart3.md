@@ -64,7 +64,7 @@ Also edit `{% block rowTwoColTwoContent %}` to display the items in the shopping
 
 >[!info]- Hint
 >Once implemented the webpage should look something like (remember you still need to add functionality to `app.y` before it will be able to add items to the lists and show those items in `{% block rowTwoColTwoContent %}`):
->![](WebDev/_shared/Projects/ANH/images/shoppingListItemExample1.png)
+>![list example](/WebDev/_shared/Projects/ANH/images/shoppingListItemExample1.png)
 
 Also make sure you add a link to this new template to `base.html`
 ``` html
@@ -137,4 +137,4 @@ Remember that at the end of both of these `routes` we need to `return.redirect(u
 >
 
 For extension. Will need another column in the table that is enabled/disable and determines if the item is displayed
-![](WebDev/_shared/Projects/ANH/images/pin.png)
+![](/WebDev/_shared/Projects/ANH/images/pin.png)
