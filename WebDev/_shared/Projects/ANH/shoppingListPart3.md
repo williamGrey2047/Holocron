@@ -66,10 +66,6 @@ Also edit `{% block rowTwoColTwoContent %}` to display the items in the shopping
 >Once implemented the webpage should look something like (remember you still need to add functionality to `app.y` before it will be able to add items to the lists and show those items in `{% block rowTwoColTwoContent %}`):
 >![list example](/WebDev/_shared/Projects/ANH/images/shoppingListItemExample1.png)
 
-Also make sure you add a link to this new template to `base.html`
-``` html
-<a class="nav-link" href="/shoppingLists">Shopping List</a>
-``` 
 
 ## app.py
 
