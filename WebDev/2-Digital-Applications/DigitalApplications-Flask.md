@@ -155,6 +155,17 @@ N/A
 
 ### Week 9
  ![[semesterCalendarS2#School Events - Week 9]]
+#### Videos
+![Week 9 Introduction](https://youtu.be/15H9SwzX5Qo)
+
+![Week 9 Theory](https://youtu.be/GLGr3GHAL64)
+
+
+![Week 9 Practical](https://youtu.be/phkltX-JcUQ)
+
+
+
+
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
 #### Theory
