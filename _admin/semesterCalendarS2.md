@@ -42,7 +42,7 @@ N/A
 
 **Wednesday** - Breakout Week. Ryan offsite.
 **Thursday** - Breakout Week. Ryan offsite.
-**Friday** - Normal School Day. Ryan offsite (pending)
+**Friday** - Normal School Day. 
 
 #### School Events - Week 11
 **Monday** - Student Free Day.
