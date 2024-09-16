@@ -98,13 +98,16 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
->  - [ ] Create New SD Card image with Raspberry Pi OS
->  - [ ] [Bash Scripting](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Bash%20Scripting.md)
+>  - [ ] (Monday) Create New SD Card image with Raspberry Pi OS
+>  - [ ] (Tuesday) [Bash Scripting](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Bash%20Scripting.md)
+>  - [ ] (Thursday) Continue Bash Scripting & Testing
+>  - [ ] (Thursday) Assessment - Coding
 
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> N/A
+> - [ ] Assessment 2 - Coding
+> - [ ] Assessment 2 - Development Process
 > #### Theory
 > N/A
 > #### Practical
