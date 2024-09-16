@@ -1,3 +1,4 @@
+>[!info] Written by Google Gemini
 # Overview
 **What is Bash Scripting?**
 
@@ -6,7 +7,7 @@ Bash scripting is a powerful tool that allows you to automate tasks and streamli
 **Why Use Bash Scripting on Raspberry Pi?**
 
 - **Automates repetitive tasks:** Run complex commands with a single script.
-- **Customizes the Raspberry Pi:** Create personalized scripts for your specific needs.
+- **Customises the Raspberry Pi:** Create personalis>ed scripts for your specific needs.
 - **Simplifies system management:** Perform administration tasks like backing up, updating, and installing software.
 - **Interacts with hardware:** Control GPIO pins, sensors, and other peripherals.
 
@@ -96,7 +97,7 @@ Bash scripting is a versatile tool that can significantly enhance your Raspberry
 
 # Task
 
-Write a script to automate the installation and configuration of your server.
+Write a bash script to automate the installation and configuration of your server.
 
 ## Steps
 
