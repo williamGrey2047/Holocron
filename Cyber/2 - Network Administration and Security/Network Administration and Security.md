@@ -94,17 +94,20 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> - [ ] VET Competencies
 > - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+>  - [ ] (Monday) Create New SD Card image with Raspberry Pi OS
+>  - [ ] (Tuesday) [Bash Scripting](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Bash%20Scripting.md)
+>  - [ ] (Thursday) Continue Bash Scripting & Testing
+>  - [ ] (Thursday) Assessment - Coding
 
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> N/A
+> - [ ] Assessment 2 - Coding
+> - [ ] Assessment 2 - Development Process
 > #### Theory
 > N/A
 > #### Practical
@@ -114,7 +117,8 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> N/A
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -122,6 +126,9 @@ tags:
 
 > [!danger]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
+> 
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
 > 
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
