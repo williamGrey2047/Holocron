@@ -7,7 +7,6 @@
 > [!info] This section provides a general overview and examples of arrays in Python and Flask. Used as background knowledge.
 
 
-
 ## Arrays and Multidimensional Arrays in Python and Flask
 
 ### Single-Dimensional Arrays
@@ -134,6 +133,7 @@ def send_multi_array():
 ```
 
 # Join Operations
+> [!info] This section provides a general overview and examples of JOIN operations with SQL and Flask. Used as background knowledge.
 
 **JOIN Operations for Beginners**
 
@@ -193,9 +193,7 @@ class Order(db.Model):
 @app.route('/join')
 def join():
     # Perform an INNER JOIN
-    results = db.session.query(Customer, Order) \
-        .join(Order, Customer.customer_id == Order.customer_id) \
-        .all()
+    results = db.session.query(Customer, Order).join(Order, Customer.customer_id == Order.customer_id).all()
 
     # Process the results
     # ...
@@ -212,9 +210,7 @@ You can also use the `outerjoin()` method to perform LEFT, RIGHT, or FULL OUTE
 
 ```python
 # Perform a LEFT JOIN
-results = db.session.query(Customer, Order) \
-    .outerjoin(Order, Customer.customer_id == Order.customer_id) \
-    .all()
+results = db.session.query(Customer, Order) .outerjoin(Order, Customer.customer_id == Order.customer_id).all()
 ```
 
 
