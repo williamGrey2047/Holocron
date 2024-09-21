@@ -44,6 +44,10 @@ Using the information above, and the sample data below, you can see that in the 
 
 # Arrays Overview
 
+> [!info] This section provides a general overview and examples of arrays in Python and Flask. Used as background knowledge.
+
+
+
 ## Arrays and Multidimensional Arrays in Python and Flask
 
 ### Single-Dimensional Arrays
