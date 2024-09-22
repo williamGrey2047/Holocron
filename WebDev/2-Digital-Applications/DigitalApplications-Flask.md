@@ -175,6 +175,15 @@ N/A
 
 ### Week 10
  ![[semesterCalendarS2#School Events - Week 10]]  
+
+#### Videos
+
+![Week 10 Assessment](https://youtu.be/QaOL-fNrj3o)
+
+![Week 10 VET](https://youtu.be/Q2w5G7AqeYE)
+
+
+
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Theory
