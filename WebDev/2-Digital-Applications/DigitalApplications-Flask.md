@@ -178,7 +178,7 @@ N/A
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Theory
-- [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 - [ ] [VET Competency](https://classroom.google.com/c/NjkwOTc0MjQ2OTU4/a/NzA1MzI1MzkyNzAx/details)
 #### Practical
 - N/A
