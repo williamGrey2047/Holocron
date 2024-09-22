@@ -132,7 +132,7 @@ def send_multi_array():
     return jsonify(array)
 ```
 
-# Join Operations
+# SQL & Join Operations
 > [!info] This section provides a general overview and examples of JOIN operations with SQL and Flask. Used as background knowledge.
 
 **What is a JOIN Operation in SQL?**
