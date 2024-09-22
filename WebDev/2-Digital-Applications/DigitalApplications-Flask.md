@@ -174,7 +174,7 @@ N/A
 - [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
 ### Week 10
- ![[semesterCalendarS2#School Events - Week 10]]
+ ![[semesterCalendarS2#School Events - Week 10]]  
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Theory
