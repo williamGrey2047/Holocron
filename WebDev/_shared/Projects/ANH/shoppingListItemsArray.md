@@ -1,5 +1,5 @@
 >[!info]- Learning Outcome
->This page covers the complex nature of the multdimensional array produced by the `join` command used in Flask
+>This page covers the complex nature of the multidimensional array produced by the `join` command used in Flask
 
 
 # Arrays Overview
