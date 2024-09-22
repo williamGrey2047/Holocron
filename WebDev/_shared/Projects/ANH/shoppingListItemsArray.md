@@ -135,42 +135,143 @@ def send_multi_array():
 # Join Operations
 > [!info] This section provides a general overview and examples of JOIN operations with SQL and Flask. Used as background knowledge.
 
-**JOIN Operations for Beginners**
+**What is a JOIN Operation in SQL?**
 
-Imagine you have two tables in a database:
+JOIN is a powerful operation in SQL (Structured Query Language) that allows you to combine rows from two or more tables based on a common column or columns. It is used to retrieve data from multiple tables simultaneously and create more complex queries.
 
-- **Customers** table with columns: `customer_id`, `name`, `email`
-- **Orders** table with columns: `order_id`, `customer_id`, `product_id`, `quantity`
+**How JOIN Works**
 
-A JOIN operation allows you to combine rows from these two tables based on a common column, in this case `customer_id`.
+JOIN operations work by comparing the values in one or more columns of two tables. The rows that have matching values in the specified columns are then combined into a single result set.
 
-There are different types of JOIN operations:
+**Types of JOIN Operations**
 
-- **INNER JOIN:** Returns only rows that have matching values in both tables.
+There are four main types of JOIN operations in SQL:
 
-```sql
-SELECT * FROM Customers INNER JOIN Orders ON Customers.customer_id = Orders.customer_id;
-```
+- **INNER JOIN:** Returns only the rows that match in both tables.
+- **OUTER JOIN:** Returns all rows from one table and matching rows from another table.
+- **LEFT OUTER JOIN:** Returns all rows from the left table and matching rows from the right table.
+- **RIGHT OUTER JOIN:** Returns all rows from the right table and matching rows from the left table.
 
-- **LEFT JOIN:** Returns all rows from the left table (Customers), and the matching rows from the right table (Orders). If there is no match in the right table, the result will be `NULL`.
+**Syntax**
 
-```sql
-SELECT * FROM Customers LEFT JOIN Orders ON Customers.customer_id = Orders.customer_id;
-```
-
-- **RIGHT JOIN:** Similar to LEFT JOIN, but returns all rows from the right table (Orders), and the matching rows from the left table (Customers).
+The general syntax of a JOIN operation is:
 
 ```sql
-SELECT * FROM Customers RIGHT JOIN Orders ON Customers.customer_id = Orders.customer_id;
+SELECT *
+FROM table1
+JOIN table2
+ON table1.column_name = table2.column_name;
 ```
 
-- **FULL OUTER JOIN:** Returns all rows from both tables, even if there is no match.
+In this syntax:
+
+- `table1` and `table2` are the tables you want to join.
+- `column_name` is the common column or columns used to join the tables.
+
+
+## Join Example 
+
+Consider the following two tables:
+
+**Customers Table**
+
+|customer_id|customer_name|
+|---|---|
+|1|John Smith|
+|2|Jane Doe|
+|3|Mark Johnson|
+
+**Orders Table**
+
+|order_id|customer_id|product_name|quantity|
+|---|---|---|---|
+|101|1|Laptop|1|
+|102|2|Smartphone|2|
+|103|3|Tablet|1|
+
+**Example Join Operations**
+
+**INNER JOIN**
 
 ```sql
-SELECT * FROM Customers FULL OUTER JOIN Orders ON Customers.customer_id = Orders.customer_id;
+SELECT *
+FROM Customers
+INNER JOIN Orders
+ON Customers.customer_id = Orders.customer_id;
 ```
 
-**Using JOIN Operations in Flask**
+**Result:**
+
+|customer_id|customer_name|order_id|product_name|quantity|
+|---|---|---|---|---|
+|1|John Smith|101|Laptop|1|
+|2|Jane Doe|102|Smartphone|2|
+|3|Mark Johnson|103|Tablet|1|
+
+This query returns only the rows that match in both the Customers and Orders tables.
+
+**OUTER JOIN**
+
+```sql
+SELECT *
+FROM Customers
+FULL OUTER JOIN Orders
+ON Customers.customer_id = Orders.customer_id;
+```
+
+**Result:**
+
+|customer_id|customer_name|order_id|product_name|quantity|
+|---|---|---|---|---|
+|1|John Smith|101|Laptop|1|
+|2|Jane Doe|102|Smartphone|2|
+|3|Mark Johnson|103|Tablet|1|
+|NULL|NULL|NULL|NULL|NULL|
+
+This query returns all rows from both the Customers and Orders tables, even if there are no matching rows. The NULL values represent rows that do not have a match in the other table.
+
+**LEFT OUTER JOIN**
+
+```sql
+SELECT *
+FROM Customers
+LEFT OUTER JOIN Orders
+ON Customers.customer_id = Orders.customer_id;
+```
+
+**Result:**
+
+|customer_id|customer_name|order_id|product_name|quantity|
+|---|---|---|---|---|
+|1|John Smith|101|Laptop|1|
+|2|Jane Doe|102|Smartphone|2|
+|3|Mark Johnson|103|Tablet|1|
+|NULL|NULL|NULL|NULL|NULL|
+
+This query returns all rows from the Customers table, and matching rows from the Orders table. However, if there are no matching rows in the Orders table, the query returns a NULL value for the order information.
+
+**RIGHT OUTER JOIN**
+
+```sql
+SELECT *
+FROM Customers
+RIGHT OUTER JOIN Orders
+ON Customers.customer_id = Orders.customer_id;
+```
+
+**Result:**
+
+|customer_id|customer_name|order_id|product_name|quantity|
+|---|---|---|---|---|
+|1|John Smith|101|Laptop|1|
+|2|Jane Doe|102|Smartphone|2|
+|3|Mark Johnson|103|Tablet|1|
+|NULL|NULL|NULL|NULL|NULL|
+
+This query returns all rows from the Orders table, and matching rows from the Customers table. However, if there are no matching rows in the Customers table, the query returns a NULL value for the customer information.
+
+
+## Using JOIN Operations in Flask
 
 To perform a JOIN operation in Flask, you can use the `join()` method of the `Query` object.
 
