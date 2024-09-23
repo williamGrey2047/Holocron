@@ -345,9 +345,9 @@ Using the information above, and the sample data below, you can see that in the 
 | 3   | Bread              |
 | 4   | Flour              |
 | 5   | Self Raising Flour |
-| 6   | d                  |
-| 7   | 3                  |
-| 8   | ads                |
+| 6   | Salsa              |
+| 7   | Paprika            |
+| 8   | Milk               |
 
 ### `shopping_list_items`
 
