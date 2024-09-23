@@ -320,6 +320,8 @@ results = db.session.query(Customer, Order) .outerjoin(Order, Customer.customer_
 
 In the Shopping List stage of the project, to display a shopping list to the user, including the items in the list and the item names, data needs to be retrieved from two different tables at the same time
 
+## Database
+
 The database, focusing on the shopping list sub-system, is visualised in the Entity Relationship Diagram (ERD) as:
 
 ![erdShoppingLists](/WebDev/_shared/Projects/ANH/images/erdShoppingLists.png)
@@ -330,27 +332,47 @@ This diagram describes:
 
 **In summary:** To display an individual shopping list to the user, the list of items needs to be retrieved from `shopping_list_items` and each item's name needs to be retrieved from `shopping_item`. This requires a `join` operation on the database.
 
-## Sample Data
+## Sample Database Data
 
 Using the information above, and the sample data below, you can see that in the shopping_list_items table, the record with an ID of 4 matches the `shoppingListID` of 2 with the item with an ID of 5, named "Self Raising Flour" from the `shopping_item` table.
 
 ### `shopping_item`
 
-| id    | name               |
-| ----- | ------------------ |
-| 1 | Taco               |
-| 2 | Cheese             |
-| 3 | Bread              |
-| 4 | Flour              |
-| 5 | Self Raising Flour |
-| 6 | d                  |
-| 7 | 3                  |
-| 8 | ads                |
+| id  | name               |
+| --- | ------------------ |
+| 1   | Taco               |
+| 2   | Cheese             |
+| 3   | Bread              |
+| 4   | Flour              |
+| 5   | Self Raising Flour |
+| 6   | d                  |
+| 7   | 3                  |
+| 8   | ads                |
 
 ### `shopping_list_items`
 
-| id    | shoppingListID | shoppingItemID | quantity | completed |
-| ----- | -------------- | -------------- | -------- | --------- |
-| 4 | 2          | 5          | 10   | 0     |
-| 5 | 1              | 6              | d        | 1         |
+| id  | shoppingListID | shoppingItemID | quantity | completed |
+| --- | -------------- | -------------- | -------- | --------- |
+| 4   | 2              | 5              | 10       | 0         |
+| 5   | 1              | 6              | 3        | 1         |
 
+> [!important] **Goal:** The goal of JOIN operations is to load data from two different tables. In this case, load the item name (from `shopping_item`) and the list of items in a shopping list (from `shopping_list_items`)
+> This means that when the list is shown, it would appear like this:
+> ![joinExampleList](/WebDev/_shared/Projects/ANH/images/joinExampleList.png)
+> So, showing "Self Raising Flour" Instead of showing the number 5
+
+## Code explanation
+
+The code that achieves this in the shopping list mini Web App can be found in the `shoppingList(list_id)` function.
+
+```python
+list_items = db.session.query(ShoppingListItems, ShoppingItem).join(ShoppingItem, ShoppingListItems.shoppingItemID == ShoppingItem.id).filter(ShoppingListItems.shoppingListID == list_id).all()
+```
+
+![joinCode](WebDev/_shared/Projects/ANH/images/joinCode.png)
+
+This code is similar to the previous `db.session.query()` commands coded in the remainder of the project. 
+
+The code identifies the two tables (via the models - `ShoppingListItems` and `ShoppingItem`) and runs the `join` command, linking the two tables through `ShoppingListItems.shoppingItemID` and `ShoppingItem.id`. 
+
+The results from the join command is then `filter`ed by the shoppingListID so it only loads the data for the shopping list that is to be displayed (identified by `list_id`). 
