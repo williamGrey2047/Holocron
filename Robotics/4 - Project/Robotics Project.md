@@ -125,30 +125,30 @@ tags:
 > #### Practical
 > N/A
 
-> [!danger]- Week 12
+> [!info]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
->- [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
-> **Assessment Due**
-> The task will be due Friday 11:59pm.
-> Worth 50%.
-> The task will be posted to Google Classroom, as per normal.
-
-> [!info]- Week 13
-> ![[semesterCalendarS2#School Events - Week 13]]
 > 
 > #### Class Tasks
-> - [ ] Vet Competencies
-> - [ ] CTF Event Thursday
+> - [ ] [[Robotics/4 - Project/2024S2/Assessment 2 - 2024S2|Assessment 2 - 2024S2]]
 > #### Theory
 > N/A
 > #### Practical
 > N/A
 
+> [!danger]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+>- [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+>
+> **Assessment Due**
+> The task will be due Friday 11:59pm.
+> Worth 50%.
+> The task will be posted to Google Classroom, as per normal.
+
 > [!info]- Week 14
 > ![[semesterCalendarS2#School Events - Week 14]]
 > #### Class Tasks
-> N/A
+> - [ ] [[Robotics/4 - Project/2024S2/Assessment 3 - 2024S2|Assessment 3 - 2024S2]]
 > #### Theory
 > N/A
 > #### Practical
@@ -185,7 +185,7 @@ tags:
 | ---------------- | ------------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                                   |
 |                  | [Assessment 2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
-|                  | Assessment 3 - 25 %                                                                   |
+|                  | [[Robotics/4 - Project/2024S2/Assessment 3 - 2024S2\|Assessment 3]] - 25 %            |
 
 # Contact Details
 
