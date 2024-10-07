@@ -2,7 +2,7 @@
 ## Game Play
 
   
-![[https://www.youtube.com/watch?v=nQfOhc6jumE](https://www.youtube.com/watch?v=nQfOhc6jumE)]()
+![[https://www.youtube.com/watch?v=nQfOhc6jumE](https://www.youtube.com/watch?v=nQfOhc6jumE)
 
 
 This video shows the process of designing and coding the fundamental gameplay of space invaders.  
