@@ -10,12 +10,12 @@
   "theme": "consult",
   "highlightTheme": "zenburn",
   "transition": "slide",
-  "transitionSpeed": "default",
+  "transitionSpeed": "normal",
   "controls": true,
   "progress": true,
   "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-09-01T11:59:45.168Z"
+  "motm": "2024-10-11T11:08:09.046Z"
 }
