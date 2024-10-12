@@ -1,13 +1,12 @@
-> [!important]- Course Details
-> The goal of this course is to deliver a Certificate III in Information Technology focusing on Website Development.
-> Therefore the course will focus on the completion of competencies, without the BSSS requirements of attendance and assessment.
-> Students studying this course will **not** receive an A-E grade, as the only focus is the competencies.
-> Students will receive points towards their Year 12 Senior Secondary Certificate upon completion of the 2 year course.
-
-
+See [[E Course/Web/Course|Course]] for details on the course
+ 
 # Semester 1
 
-## Overview
+[[Website Development Unit 1|Click here for details on the semester.]]
+
+![[E Course/Web/Website Development Unit 1#Overview|Semester 1]]
+
+![[E Course/Web/Website Development Unit 1#Competencies|Semester 1]]
 
 | Content | Competency |
 | ------- | ---------- |
@@ -16,7 +15,12 @@
 
 # Semester 2
 
-## Overview
+
+[[Website Development Unit 2|Click here for details on the semester.]]
+
+![[E Course/Web/Website Development Unit 2#Overview]]
+
+![[E Course/Web/Website Development Unit 2#Competencies]]
 
 | Content | Competency |
 | ------- | ---------- |
@@ -25,7 +29,11 @@
 
 # Semester 3
 
-## Overview
+[[Website Development Unit 3|Click here for details on the semester.]]
+
+![[E Course/Web/Website Development Unit 3#Overview]]
+
+![[E Course/Web/Website Development Unit 3#Competencies]]
 
 | Content | Competency |
 | ------- | ---------- |
@@ -34,7 +42,11 @@
 
 # Semester 4
 
-## Overview
+[[Website Development Unit 4|Click here for details on the semester.]]
+
+![[E Course/Web/Website Development Unit 4#Overview]]
+
+![[E Course/Web/Website Development Unit 4#Competencies]]
 
 | Content | Competency |
 | ------- | ---------- |
