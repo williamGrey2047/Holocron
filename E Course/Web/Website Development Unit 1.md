@@ -1,5 +1,5 @@
 # Overview
-This Semester covers several competencies working towards ICT30120 Certificate III in Information Technology.
+This Semester covers several competencies working towards **ICT30120 Certificate III in Information Technology**.
 
 The programming languages and technology focus in this unit will be:
 - HTML
@@ -28,6 +28,10 @@ These competencies are covered throughout this semester.
 This semester will be divided into two projects, *loosely* aimed at being completed each term.
 
 ## Project 1
+
+
+### VET Competencies
+After completing all of the requirements for this Project, complete the following VET competencies.
 
 
 ## Project 2
