@@ -1,7 +1,7 @@
 # Overview
-This Semester covers a number of competencies working towards ICT30120 Certificate III in Information Technology.
+This Semester covers several competencies working towards ICT30120 Certificate III in Information Technology.
 
-The programming languages and/or technology focus in this unit will be:
+The programming languages and technology focus in this unit will be:
 - HTML
 - CSS
 - Javascript
@@ -10,7 +10,7 @@ The programming languages and/or technology focus in this unit will be:
 
 You will be developing two websites:
 - Project 1 - Covering the fundamentals of programming languages and websites.
-- Project 2 - Designing the layout of the site and applying programming techniques learned in a new project.
+- Project 2 - Designing the site layout and applying programming techniques learned in a new project.
 
 
 # Competencies
