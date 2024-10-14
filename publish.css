@@ -9156,3 +9156,23 @@ body:not(.is-mobile):not(.mod-macos):not(.mod-windows):not(.mod-linux) .workspac
 body:not(.is-mobile):not(.mod-macos):not(.mod-windows):not(.mod-linux) .app-container::before {
     display: none !important;
 }
+
+.inline-embed{
+    border-left:0px;
+}
+
+.border-inline-start{
+    border-left:0px;
+}
+
+.markdown-embed {
+    border-left:0px;
+}
+
+.markdown-embed-content {
+    border-left:0px;
+}
+
+.internal-embed {
+    border-left:0px;
+}
