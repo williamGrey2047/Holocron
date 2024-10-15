@@ -117,8 +117,8 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> - [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> -  [[Bash Scripting]]
+> -  [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
