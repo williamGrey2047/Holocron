@@ -1,4 +1,4 @@
-> [!info] Week 14 - 7th November, 2-3pm.
+> [!info] Week 14 - Wednesday 6th November, 2-3pm.
 
 We're inviting ~5 students per feeder public high school:
 - Wanniassa
