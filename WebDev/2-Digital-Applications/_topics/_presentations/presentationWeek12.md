@@ -6,7 +6,8 @@ css: css/holocronSlides.css
 
 # Welcome to Week 12
 
-- 4 (and two days) Weeks left.
+- 4 Weeks (and 1 day) left.
+![[endOfSemester2024S2.png|500]]
 - 2 Assessment Tasks
 - VET Competencies
 
