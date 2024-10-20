@@ -67,12 +67,13 @@ Last Week of Classes
 **Tuesday** - Cross Line Exams
 **Wednesday** - Cross Line Exams.
 **Thursday** - Cross Line Exams.
-**Friday** - Year 11 AST Trial.
+**Friday** - Cross Line Exams.
 **Friday** - Q4/S2 Ends.
 
 #### School Events - Week 17
 No Classes.
-**Monday** - Year 11 AST Trial.
+**Monday** - Year 11 AST Trial (Short Response & Multiple Choice).
+**Tuesday** - Year 11 AST Trial (Long Response).
 **Tuesday** - Feedback Day.
 **Thursday** - Unit Scores Published on BSSS.
 **Thursday** - Year 12 Breakfast.
