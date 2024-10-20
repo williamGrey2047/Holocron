@@ -69,6 +69,7 @@ Last Week of Classes
 **Thursday** - Cross Line Exams.
 **Friday** - Cross Line Exams.
 **Friday** - Q4/S2 Ends.
+**Friday** - Last day to submit Assessment Tasks
 
 #### School Events - Week 17
 No Classes.
