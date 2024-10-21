@@ -1,7 +1,20 @@
 
+# Summary
+
+
+![[semesterCalendarS2#School Events - Week 3]] 
+
 # Video
 
 # Presentation
-[This Week's Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek03.md)
+- [[presentationWeek03]]
+# Class Tasks
 
-# Work to submit
+
+# Theory
+
+
+# Practical
+
+
+# Submission
