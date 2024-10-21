@@ -3,14 +3,14 @@
 
 
 # School Events
-![[semesterCalendarS2#School Events - Week 2]] 
+![[semesterCalendarS2#School Events - Week 11]] 
 
 # Video
 
 # Presentation
-- [[presentationWeek02]]
+- [[presentationWeek11]]
 # Class Tasks
-
+- [[assessment2-2024S2]]
 
 # Theory
 

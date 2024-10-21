@@ -3,12 +3,14 @@
 
 
 # School Events
-![[semesterCalendarS2#School Events - Week 2]] 
+![[semesterCalendarS2#School Events - Week 12]] 
 
 # Video
+ ![https://youtu.be/M-PTSMAd8Jk](https://youtu.be/M-PTSMAd8Jk)
+
 
 # Presentation
-- [[presentationWeek02]]
+- [[presentationWeek12]]
 # Class Tasks
 
 

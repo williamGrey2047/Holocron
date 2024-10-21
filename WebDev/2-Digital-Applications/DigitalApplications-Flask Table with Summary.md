@@ -24,261 +24,30 @@ Submissions are due **11:59pm Friday** each week.
 | Week                                            | Details                                                                                                                                               |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[semesterCalendarS2#School Events - Week 1]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week01]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week01#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 2]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week02]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week02#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 3]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week03]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week03#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 4]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week04]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week04#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 5]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week05]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week05#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 6]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week06]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week06#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 7]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week07]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week07#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 8]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week08]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week08#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 9]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week09]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week09#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 10]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week10]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week10#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 11]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week11]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week11#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 12]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week12]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week12#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 13]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week13]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week13#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 14]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week14]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week14#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 15]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week15]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week15#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 16]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week16]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week16#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 17]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week17]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week17#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 18]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week01\|Week18]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week18#Summary]] |
-| ![[semesterCalendarS2#School Events - Week 19]] |                                                                                                                                                       |
-| ![[semesterCalendarS2#School Events - Week 20]] |                                                                                                                                                       |
-
-
-
-## Term 3
-
-### Week 1
-![[semesterCalendarS2#School Events - Week 1]] 
-#### Video
+| ![[semesterCalendarS2#School Events - Week 2]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week02\|Week02]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week02#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 3]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week03\|Week03]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week03#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 4]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week04\|Week04]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week04#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 5]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week05\|Week05]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week05#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 6]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week06\|Week06]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week06#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 7]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week07\|Week07]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week07#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 8]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week08\|Week08]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week08#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 9]]  | [[WebDev/2-Digital-Applications/_topics/_instructions/Week09\|Week09]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week09#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 10]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week10\|Week10]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week10#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 11]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week11\|Week11]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week11#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 12]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week12\|Week12]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week12#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 13]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week13\|Week13]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week13#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 14]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week14\|Week14]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week14#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 15]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week15\|Week15]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week15#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 16]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week16\|Week16]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week16#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 17]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week17\|Week17]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week17#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 18]] | [[WebDev/2-Digital-Applications/_topics/_instructions/Week18\|Week18]]<br><br>![[WebDev/2-Digital-Applications/_topics/_instructions/Week18#Summary]] |
+| ![[semesterCalendarS2#School Events - Week 19]] | ![[WebDev/2-Digital-Applications/_topics/_instructions/Week19#Summary]]                                                                               |
+| ![[semesterCalendarS2#School Events - Week 20]] | ![[WebDev/2-Digital-Applications/_topics/_instructions/Week20#Summary]]                                                                               |
 
 
 
 
 
-#### Submission
-
-
-### Week 2
-![[semesterCalendarS2#School Events - Week 2]] 
-#### Video
-
-![Week 2](https://youtu.be/UAeLuI6xGvo)
-
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek02]]
-#### Practical
-- [[todoList]]
-
-#### Submission
-Submit the assigned Google Doc with the following information:
-- Screenshots/Gif of TODO list working
-
-### Week 3 - Assessment Week
- ![[semesterCalendarS2#School Events - Week 3]]
-![Assessment 1 Overview](https://youtu.be/mkUcSVH3ZUY)
- 
-
-[[Task1]]
-
-
-**Assessment Week**  
-You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
-Worth 25%.  
-The task will be posted to Google Classroom, as per normal.
-#### Class Tasks
- - Submit Assessment 1
-#### Theory
-- [[presentationWeek03]]
-
-
-
-
-### Week 4
- ![[semesterCalendarS2#School Events - Week 4]]
-![Week 4 - Resume Builder](https://youtu.be/k9czbai5BGo)
-
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek04]]
-#### Practical
-- [[resumeBuilder]]
-
-### Week 5
- ![[semesterCalendarS2#School Events - Week 5]]
-![https://youtu.be/FLWyW1CZVUI](https://youtu.be/FLWyW1CZVUI)
-
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek05]]
-#### Practical
-- [[resumeImprovements]]
-
-
-### Week 6
- ![[semesterCalendarS2#School Events - Week 6]]
-![https://youtu.be/N5Szle-XleU](https://youtu.be/N5Szle-XleU)
-
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek06]]
-#### Practical
-- [[resumeFinalTouches]]
-### Week 7
- ![[semesterCalendarS2#School Events - Week 7]]
-#### Videos
-![https://youtu.be/Uv18cXzvRL0](https://youtu.be/Uv18cXzvRL0)
-
-
-![https://youtu.be/SUDKg1AnQ50](https://youtu.be/SUDKg1AnQ50)
-
-![https://youtu.be/aOz_nH_RWTo](https://youtu.be/aOz_nH_RWTo)
-
-
-
-
-#### Class Tasks
-- [[assessment2Preparation]]
-#### Theory
-- [[presentationWeek07]]
-#### Practical
-- [[shoppingListPart1]]
-
-### Week 8
- ![[semesterCalendarS2#School Events - Week 8]]
-#### Videos
-
- ![Introduction](https://youtu.be/7B6QERTeYYU)
-
-  
-  ![Practical](https://youtu.be/0rY4fMPQtwk)
-![Assessment](https://youtu.be/uCfS1UTsFUA)
-  
-#### Class Tasks
-- [[assessment2-2024S2]]
-#### Theory
-- [[presentationWeek08]]
-#### Practical
-- [[shoppingListPart2]]
-
-### Week 9
- ![[semesterCalendarS2#School Events - Week 9]]
-#### Videos
-![Week 9 Introduction](https://youtu.be/15H9SwzX5Qo)
-
-![Week 9 Theory](https://youtu.be/GLGr3GHAL64)
-
-
-![Week 9 Practical](https://youtu.be/phkltX-JcUQ)
-
-
-
-
-#### Class Tasks
-- [[presentationWeek09]]
-#### Theory
-- [[_sharedContent/Personas|Personas]]
-#### Practical
-- [[shoppingListPart3]]
-
-### Week 10
- ![[semesterCalendarS2#School Events - Week 10]]  
-
-#### Videos
-
-![Week 10 Assessment](https://youtu.be/QaOL-fNrj3o)
-
-![Week 10 VET](https://youtu.be/Q2w5G7AqeYE)
-
-![Week 10 Code](https://youtu.be/TfZOR-IkAM4)
-
-#### Class Tasks
-- [[presentationWeek10]]
-#### Theory
-- [[assessment2-2024S2]]
-- [VET Competency](https://classroom.google.com/c/NjkwOTc0MjQ2OTU4/a/NzA1MzI1MzkyNzAx/details)
-#### Practical
-- N/A
-
-## Term 4
-### Week 11
- ![[semesterCalendarS2#School Events - Week 11]]
-#### Class Tasks
-- [[assessment2-2024S2]]
-#### Theory
-- [[presentationWeek11]]
-#### Practical
-N/A
-
-### Week 12
- ![[semesterCalendarS2#School Events - Week 12]]
- ![https://youtu.be/M-PTSMAd8Jk](https://youtu.be/M-PTSMAd8Jk)
-
-#### Class Tasks
- -  [[assessment2-2024S2]]
-#### Theory
-- [[presentationWeek12]]
-#### Practical
-N/A
-
-### Week 13 - Assessment Due
- ![[semesterCalendarS2#School Events - Week 13]]
-**Assessment Due**  
-The task will be due Friday 11:59pm.  
-Worth 50%.  
-The task will be posted to Google Classroom, as per normal.
-#### Class Tasks
-- [[assessment2-2024S2]]
- - Submit Assessment 2
-#### Theory
-- [[presentationWeek13]]
-#### Practical
-N/A
-
-
-
-### Week 14
- ![[semesterCalendarS2#School Events - Week 14]]
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek14]]
-#### Practical
-N/A
-### Week 15
- ![[semesterCalendarS2#School Events - Week 15]]
-**Assessment Week**  
-This assessment task is an **in person** interview. Your specific timeslot will be posted to Google Classroom with the assessment.
-
-You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.  
-Your interview and any documentation you bring to the interview will be assessed.  
-Worth 25%.  
-The task will be posted to Google Classroom, as per normal.
-#### Class Tasks
- - Prepare for Interview
- - Assessment 3 - Interview Week
-#### Theory
-- [[presentationWeek15]]
-#### Practical
-N/A
-### Week 16
- ![[semesterCalendarS2#School Events - Week 16]]
-#### Class Tasks
-N/A
-#### Theory
-- [[presentationWeek16]]
-#### Practical
-N/A
-
-### Week 17
- ![[semesterCalendarS2#School Events - Week 17]]
-### Week 18
- ![[semesterCalendarS2#School Events - Week 18]]
 
 
 # Subject Information

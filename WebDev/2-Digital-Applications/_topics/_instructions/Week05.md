@@ -3,12 +3,13 @@
 
 
 # School Events
-![[semesterCalendarS2#School Events - Week 2]] 
+![[semesterCalendarS2#School Events - Week 5]] 
 
 # Video
+![https://youtu.be/FLWyW1CZVUI](https://youtu.be/FLWyW1CZVUI)
 
 # Presentation
-- [[presentationWeek02]]
+- [[presentationWeek05]]
 # Class Tasks
 
 
@@ -16,6 +17,6 @@
 
 
 # Practical
-
+- [[resumeImprovements
 
 # Submission

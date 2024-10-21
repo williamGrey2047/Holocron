@@ -1,14 +1,14 @@
 
 # Summary
-
+No Classes
 
 # School Events
-![[semesterCalendarS2#School Events - Week 2]] 
+![[semesterCalendarS2#School Events - Week 19]] 
 
 # Video
 
 # Presentation
-- [[presentationWeek02]]
+- [[presentationWeek19]]
 # Class Tasks
 
 

@@ -3,12 +3,12 @@
 
 
 # School Events
-![[semesterCalendarS2#School Events - Week 2]] 
+![[semesterCalendarS2#School Events - Week 18]] 
 
 # Video
 
 # Presentation
-- [[presentationWeek02]]
+- [[presentationWeek18]]
 # Class Tasks
 
 
