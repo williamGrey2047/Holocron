@@ -4,7 +4,7 @@ Watch Videos
 Accept GitHub Classroom Invite
 Set up Development Environment
 
-# Week 1
+# School Events
 
 ![[semesterCalendarS2#School Events - Week 1]] 
 
