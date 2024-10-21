@@ -124,10 +124,7 @@ Run the page in the browser and register an account! You can view the database t
 
 # Session Variables
 
-<aside>
-‼️ PHP sessions are a way for a website to remember information about a user as they interact with the website.
-
-</aside>
+> [!info] PHP sessions are a way for a website to remember information about a user as they interact with the website.
 
 PHP sessions are a way for a web server to store and maintain information about a user's interaction with a website across multiple requests. Sessions are used to store user-specific data, such as login credentials, shopping cart contents, or user preferences, so that this data can be accessed by the server on subsequent requests.
 
@@ -154,10 +151,10 @@ In this example, we start a new session using **`session_start()`**, and then st
 
 It's important to note that sessions are not a secure way to store sensitive data such as passwords or credit card numbers. Session data can be easily tampered with or stolen, so it's important to use encryption and other security measures to protect sensitive information.
 
-<aside>
-‼️ OpenAI's ChatGPT AI language model, personal communication, 31/3/23
 
-</aside>
+> [!info] OpenAI's ChatGPT AI language model, personal communication, 31/3/23
+
+
 
 ## More Information
 
@@ -169,12 +166,12 @@ Introduction and Code examples
 
 To handle the login process, a login script will be created, however this won’t be used to display any HTML. This will allow the login process to occur on any page that you wish in the future.
 
-<aside>
-‼️ This script needs to process 2 cases:
+
+> [!info] This script needs to process 2 cases:
 1. The user entered a correct username and password combination
 2. The user did **not** enter a correct username and password combination.
 
-</aside>
+
 
 ## Login Script
 
@@ -206,10 +203,10 @@ if (isset($_POST['login'])) {
 
 Run a SQL query on the database which will return a count of all the users with the username entered by the user - `COUNT(*) as count`. Including the `as count` means that you can later use ‘count’ later in the SQL (such as on line 11).
 
-<aside>
-‼️ Remember that the table and fields needs to match **your** database.
 
-</aside>
+> [!info] Remember that the table and fields needs to match **your** database.
+
+
 
 ![[userLoginSQL.png]]
 
@@ -231,10 +228,10 @@ if ($count > 0) {
 
 After confirming the username exists, the next step is to compare the password entered by the user to the hashed version of the password in the database. PHP provides a helper function for this - `password_verify(cleartext password, hashed password)` . If this returns `true` then the passwords match.
 
-<aside>
-‼️ Ensure that the field name matches the database you’re using.
 
-</aside>
+> [!info] Ensure that the field name matches the database you’re using.
+
+
 
 ![[userLoginPasswordVerify.png]]
 
@@ -252,10 +249,10 @@ In this case, two session variables are being set - `FirstName` and `EmailAddres
 
 `header("location:index.php");` is the PHP code required to redirect the browser to a new page - i.e. after the user logs in, load the `index.php` page.
 
-<aside>
-‼️ So far, this script handles Case 1 from above.
 
-</aside>
+> [!info] So far, this script handles Case 1 from above.
+
+
 
 ![[userLoginAssignSessionVariables.png]]
 
@@ -333,10 +330,10 @@ At this stage, the page renders as such:
 
 Replace **Column 1** with details of your user accounts. This will make it easier to remember the username and password in the future.
 
-<aside>
-‼️ Change the username and passwords to the account that you created.
 
-</aside>
+> [!info] Change the username and passwords to the account that you created.
+
+
 
 ```php
 <p>username: ryan.cather@ed.act.edu.au</p>
@@ -417,10 +414,10 @@ At this stage, depending on the users state (logged in or unregistered), the fol
 | Contact Us | Invoice List |
 | Register | Log Out |
 
-<aside>
-‼️ Later in development, an ‘administrator’ level user will be implemented which will have access to certain pages as well.
 
-</aside>
+> [!info] Later in development, an ‘administrator’ level user will be implemented which will have access to certain pages as well.
+
+
 
 Open `template.php`.
 
@@ -531,10 +528,10 @@ Look for the section of the code where the navbar loads different links dependin
 
 Add the code to show a dropdown list of the links required, however only where the user is an administrator. 
 
-<aside>
-‼️ The AccessLevel session variable will be implemented in another section of the tutorial.
 
-</aside>
+> [!info] The AccessLevel session variable will be implemented in another section of the tutorial.
+
+
 
 ![[userLevelNavigation.png]]
 
@@ -577,14 +574,14 @@ In the main directory, create (if not already created) a directory called `image
 
 # Add Products
 
-<aside>
-‼️ This functionality is very similar to the user registration process, with a few notable differences:
+
+> [!info] This functionality is very similar to the user registration process, with a few notable differences:
 
 1. Products have a category
 2. The choice for categories can be pulled from the database.
 3. Images can be uploaded and stored for each product.
 4. Only administrators can add products
-</aside>
+
 
 Create a new PHP page in the main directory of the project called `productAdd.php`.  Replace the default contents of the page with the code shown.
 
@@ -743,10 +740,10 @@ At this stage, the form data has been collected and sanitised, and the image has
 
 After the image has been uploaded, add the code to write to the database.
 
-<aside>
-‼️ This code also shows the `else` blocks for if any of the image checks fail.
 
-</aside>
+> [!info] This code also shows the `else` blocks for if any of the image checks fail.
+
+
 
 ![[addProductsInsertData.png]]
 
@@ -969,10 +966,10 @@ The displayed form will be extremely similar as the form to collect the data to 
 
 If the user **is** an administrator, display the form filling in the details for the product.
 
-<aside>
-‼️ You may notice that the only change made to the Product Add form is the inclusion of the `value` attribute for each input box and the image being displayed.
 
-</aside>
+> [!info] You may notice that the only change made to the Product Add form is the inclusion of the `value` attribute for each input box and the image being displayed.
+
+
 
 ![[editProductsPrePopulateForm.png]]
 
@@ -1142,10 +1139,10 @@ if (isset($_GET["prodCode"])) {
 
 Now assuming that the code is valid, then run a simple SQL query to remove the record from the table.
 
-<aside>
-‼️ This approach means that the product details will be completely removed from the database without being able to retrieve the data. Consider how this could be done differently to allow for a product to be ‘reinstated’ in the project.
 
-</aside>
+> [!info] This approach means that the product details will be completely removed from the database without being able to retrieve the data. Consider how this could be done differently to allow for a product to be ‘reinstated’ in the project.
+
+
 
 ![[removeProductAdminDeleteProduct.png]]
 
@@ -1205,10 +1202,10 @@ The shopping cart functionality, or subsystem, is broken up into two pages - `or
 
 # Order Form
 
-<aside>
-‼️ If there is already an `orderForm.php` page in your project, you can either delete all the contents, or rename the file to `orderform.old` or similar.
 
-</aside>
+> [!info] If there is already an `orderForm.php` page in your project, you can either delete all the contents, or rename the file to `orderform.old` or similar.
+
+
 
 ## Order Form CSS
 
@@ -1405,10 +1402,10 @@ if (isset($_SESSION["FirstName"])) {
 
 # Shopping Cart
 
-<aside>
-‼️ Prerequisite: The Order Form has been completed.
 
-</aside>
+> [!info] Prerequisite: The Order Form has been completed.
+
+
 
 Create a new file in the root directory of the project called `cart.php`. 
 
@@ -1573,7 +1570,7 @@ if (isset($_POST['action']) && $_POST['action'] == "change") {
 
 # Invoices
 
-‼️ Goal: The invoices page has a number of use cases to satisfy:
+> [!info] Goal: The invoices page has a number of use cases to satisfy:
 
 1. If user is not logged in, then redirect them to index.php
 2. Users to view their "open" orders as a list.
@@ -1742,10 +1739,10 @@ You will need the following fields from the indicated tables.
 | Order Date | Orders |
 | Status | Orders |
 
-<aside>
-‼️ `Subtotal` is a calculated field which means that the Price and Quantity is multiplied together to calculate the result.
 
-</aside>
+> [!info] `Subtotal` is a calculated field which means that the Price and Quantity is multiplied together to calculate the result.
+
+
 
 To achieve this in SQL, you will need to **JOIN** the tables in the query. 
 
@@ -1778,10 +1775,10 @@ $total = 0;
 
 Create the Bootstrap grid layout to display the invoice information.
 
-<aside>
-‼️ You may see an error for `$orderDate` as this has not been defined as yet.
 
-</aside>
+> [!info] You may see an error for `$orderDate` as this has not been defined as yet.
+
+
 
 ![[invoiceOutputCode.png]]
 
