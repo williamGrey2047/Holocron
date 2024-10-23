@@ -8,7 +8,9 @@
 > 
 
 ![[timeManagementOverview.png]]
-For more details, please see [[Assessment 2 - Sample Answer#Work Skills|Work Skills]]
+**Include Analysis**
+
+For more details, please see [[Assessment 2 - Sample Answer#Work Skills|Work Skills]].
 
 # Code
 
