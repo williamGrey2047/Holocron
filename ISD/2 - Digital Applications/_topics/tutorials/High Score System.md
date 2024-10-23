@@ -3,8 +3,6 @@
 > [!info] The data stored on HDD/SSD, is referred as `persistent data`.
 
 In this tutorial, you'll be storing the players score as persistent data, so subsequent playthroughs can keep a track of the high score.
-
-
 ## Persistent Data
 
 Before implementing any form of persistent data, the exact data that needs to be save must be determined. The points where the data is loaded from and saved to the local drive must be decided.
@@ -13,7 +11,7 @@ Your application must also be prepared for attempting to load the data, however 
 
 Godot has an inbuilt system to save data and nodes to the local drive, however this tutorial will focus on only saving and loading the previous high scores.
 
-Before implementing persistent data, there are a few topics to understand - where the user data is stored and serialisation.
+Before implementing persistent data, there are a few topics to understand - where the user data is stored.
 
 ## Godot User Data
 
@@ -27,12 +25,6 @@ User data uses the `user://` prefix which points to a different folder which is 
 > `%APPDATA%\Godot\app_userdata\[project_name]` on Windows.
 > 
 > [https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html](https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html)
-
-## Serialisation
-
-`Serialisation` is the process of preparing data and objects to save to disk or transmitted.
-
-In this case, you will want to serialise and store the `current_score` variable in `Global.gd`.
 
 # Update `Global.gd`
 
@@ -60,17 +52,34 @@ In the new script create a `save_data()` function, calling it from `_ready()`.
 Inside `save_data()`, the connection to the file is created, and opened to write data to it. 
 
 After the connection is made, you simply write the value of the variable to the file using `store_var` which uses the Godot built in serialisation process.
+
+> [!info]- `set_value()`
+> When saving individual variables to the file, you use the `set_value` function. The function takes three arguments.
+> **First argument** - The *section*. This is a way to organise the save file. For instance, all the Player variables would be stored in the Player section.
+> **Second argument** - The *key*. This is equivalent to the variable name. It's organised like a key-value-pair or dictionary where keys have a particular value.
+> **Third argument** - The *value*. This is the actual data that you want to save.
+> So the code below would create a "Player" section, which contained a "score" key, with a specific value attached.
+
 ![[persistentDataFuncSave.png]]
+
+```gdscript
+func save_data():
+	var file = ConfigFile.new()
+	#var error = file.open(Global.save_file, file.WRITE)
+	file.set_value("Player", "score", Global.current_score)
+	var error := file.save(Global.save_file)
+
+	if error:
+		print("!!Data Not Saved!!")
+```
 
 ## Test the saving process
 
 Run through the game, killing all the enemies. 
 
-After the Win scene has been loaded, you should find `save.dat` in the user directory (see above).
+After the Win scene has been loaded, you should find `save.dat` in the user directory (see above). You'll notice that the structure of the file matches the `set_value` function with `"Player"` (the section) and `"score"` (the key).
 
-Opening the file to view the content won't be very useful, as you will see the binary data after the serialisation process.
-
-![[persistentDataBinaryData.png]]
+![[persistentDataFileContents.png]]
 
 ![[commonBlocks#Commit & Push]]
 # Loading Data
@@ -82,14 +91,18 @@ Open `main_menu.gd` and create a new function - `load_data()`. This function wil
 ![[persistentDataFuncLoad.png]]
 
 
+
 ```gdscript
 func load_data():
-	if FileAccess.file_exists(Global.save_file):
-		var file = FileAccess.open(Global.save_file, FileAccess.READ)
-		Global.high_score = file.get_var()
-	else:
-		print("Save Data file not found")
-		Global.high_score = 0
+	var config_file := ConfigFile.new()
+	var error := config_file.load(Global.save_file)
+	if error:
+		print("An error happened while loading data: ", error)
+		return
+	
+	# Load specific data
+	Global.high_score = config_file.get_value("Player", "score", 0)
+	print(Global.high_score)
 ```
 
 
