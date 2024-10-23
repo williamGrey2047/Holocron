@@ -162,7 +162,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [[ISD/2 - Digital Applications/_topics/tutorials/High Score System|High Score System]]
 
 > [!danger]- Week 13
 > ![[semesterCalendarS2#School Events - Week 13]]
