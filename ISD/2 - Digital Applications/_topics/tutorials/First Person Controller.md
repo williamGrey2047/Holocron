@@ -22,32 +22,32 @@ Create the root node as `CharacterBody3D`. To do this, click on Other Node and s
 
 Save the scene as `Player.tscn`.
 
-![Save Scene](fpc-SaveScene.png)
+![Save Scene](fpcSaveScene.png)
 
 Rename the root node to `Player`.
 
-![Player](fpc-RenameRoot.png)
+![Player](fpcRenameRoot.png)
 
 Add a child node - `CollisionShape3D`.
 
 This will represent the boundaries of the player node in game. It will be used as the players ‘hit box’ (officially referred to as the **collider**) to detect collisions - walls, floors, projectiles etc.
 
-![Collider](fpc-Collider.png)
+![Collider](fpcCollider.png)
 
 With the `CollisionShape3D` selected, create a `new CapsuleShape3D`.
 
-![Collision Shape](fpc-CollisionShape.png)
+![Collision Shape](fpcCollisionShape.png)
 
 Resize the dimensions of the capsule, but clicking drop down box next to Capsule Shape and choose Edit.
 
-![Edit Capsule Shape](fpc-EditCapsuleShape.png)
+![Edit Capsule Shape](fpcEditCapsuleShape.png)
 
 Set the Radius and height to values that suit your game.
 
 > [!note] You may find these values need to be modified later to better suit your game.
 
 
-![Set Radius and Height](fpc-RadiusHeight.png)
+![Set Radius and Height](fpcRadiusHeight.png)
 
 ## Camera
 
@@ -55,11 +55,11 @@ The player has been created, however the player cannot ‘see’ as a camera has
 
 Add a `Camera3D` child node to the Player node.
 
-![Add Camera3D](fpc-Camera3d.png)
+![Add Camera3D](fpcCamera3d.png)
 
 Set this camera to be the ‘main’ camera by setting the Current attribute to True.
 
-![Set Camera to current](fpc-CameraCurrent.png)
+![Set Camera to current](fpcCameraCurrent.png)
 
 Move the camera up the ‘body’ to appear as if the camera ‘sees’ through the players eyes.
 
@@ -68,7 +68,7 @@ Move the camera up the ‘body’ to appear as if the camera ‘sees’ through 
 
 Only change the `Y` value. This is the vertical value. The coordinate system will be discussed at a later time.
 
-![Set the V value](fpc-CameraYValue.png)
+![Set the V value](fpcCameraYValue.png)
 
 ## Key Actions
 
@@ -110,21 +110,21 @@ Create new inputs for the following actions:
 
 Open `Player.tscn`. Right-click on the root node and attach a script. Leave the settings as they are, and click Create.
 
-![Attach Script](fpc-PlayerAddScript.png)
+![Attach Script](fpcPlayerAddScript.png)
 
 First, the jumping. Change the value for the jump input map to `player_jump` from ui_accept.
 
-![Change Jump input](fpc-ScriptJump.png)
+![Change Jump input](fpcScriptJump.png)
 
 Add a new variable to dampen the speed at which the mouse moves.
 
 The value can be changed at a later point, however start with 0.002.
 
-![Mouse sensitivity](fpc-ScriptMouseSensitivity.png)
+![Mouse sensitivity](fpcScriptMouseSensitivity.png)
 
 Add a new `_ready()` function which will hide the mouse pointer and allow the camera to follow where the mouse is moved.
 
-![[fpc-ScriptMouseCapture.png]]
+![[fpcScriptMouseCapture.png]]
 ```gdscript
 func _ready():
     Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
@@ -134,7 +134,7 @@ func _ready():
 
 Add a new `_input()` function to get the movement of the mouse, and get the rotation of the player camera to match.
 
-![[fpc-ScriptAddInputFunc.png]]
+![[fpcScriptAddInputFunc.png]]
 
 ```gdscript
 func _input(event):
@@ -151,13 +151,13 @@ Open the Scene/s that you wish to add the player to.
 
 Drag the `player.tscn` file into the hierarchy. Initially this will be `level_one.tscn`.
 
-![Add Player](fpc-AddPlayer.png)
+![Add Player](fpcAddPlayer.png)
 
 # Test the game.
 
 Run the game, and click the start game button on the main menu.
 
-![player.gif](fpc-PlayerInGame.gif)
+![player.gif](fpcPlayerInGame.gif)
 
 ![[commonBlocks#Commit & Push]]
 
@@ -171,17 +171,17 @@ Name it `player_run`.
 
 Then add the shift key to that map.
 
-![Untitled](fpc-InputMapShift.png)
+![Untitled](fpcInputMapShift.png)
 
 Change the `SPEED` variable to **not** be a constant. This will allow you to change the value in code.
 
-![Untitled](fpc-SpeedVariable.png)
+![Untitled](fpcSpeedVariable.png)
 
 Open `Player.gd` and find the `_physics_process(delta)` function. Add the following if statement to set `SPEED` to change based on the button press.
 
 > The exact speed values can be modified based on the requirements of the game.
 
-![Check if shift is pressed](fpc-SpeedShiftCheck.png)
+![Check if shift is pressed](fpcSpeedShiftCheck.png)
 
 ```gdscript
 if Input.is_action_pressed("player_run"):
