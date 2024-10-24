@@ -11,9 +11,16 @@ Time management could include high-level analysis of:
 Project Management could focus on:
 - How GitHub was used.
 
+
 ### Requirements
 
 In this part detail and analyse the hardware **and** software requirements for the project.
+
+You could include requirements for
+- The project developed (game, system etc)
+- Project management (individual vs team-based etc)
+- How code was managed (GitHub)
+
 
 ### Intended Outcomes
 
@@ -23,6 +30,20 @@ Analyse what the outcomes of the project were, focusing on the end-user experien
 
 In this part, focus on the purpose of the project (not just the end product). For instance what learning outcomes could come from project etc.
 
+### Time Management
+For this part include a evidence showing the overall project plan and how the semester was broken up into stages.
+
+So, for example
+
+> [!important] The timings or details may not be accurate. This is just an example.
+> 
+
+![[timeManagementOverview.png]]
+**Include Analysis**
+
+For more details, please see [[Assessment 2 - Sample Answer#Work Skills|Work Skills]].
+
+
 ## Code
 
 In this section, focus **only on the aspect identified**. 
@@ -31,7 +52,7 @@ Analyse the code, and explain how that code operates and the purpose of each blo
 
 > [!tip] You **don't** need to explain every single line of code.
 
-Pick a complex route and analyse that to demonstrate an understanding of the whole script.
+For complex code sections, pick a couple of key complex routes/functions and analyse them to demonstrate an understanding of the whole script.
 
 
 ## Data
