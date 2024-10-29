@@ -29,7 +29,7 @@ This semester will be divided into two projects, *loosely* aimed at being comple
 
 ## Project 1
 
-[[Project 1 Placeholder|Main Page]]
+[[Task 1 - Server Installation|Main Page]]
 
 
 ### VET Competencies
