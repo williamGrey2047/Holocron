@@ -19,9 +19,9 @@ dev -->|deploy| prod
 
 # Project Details
 
-| Estimated Hours | Deliverables            | Related Project (if applicable) |
-| --------------- | ----------------------- | ------------------------------- |
-| 2               | 1) Docker Container<br> | Remainder of Practical Projects |
+| Estimated Hours | Deliverables            | Related Task (if applicable)            |
+| --------------- | ----------------------- | --------------------------------------- |
+| ==2==           | 1) Docker Container<br> | [[Task 2 - Server Installation Report]] |
 
 
 ## Competencies

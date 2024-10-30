@@ -3,9 +3,9 @@
 
 # Project Details
 
-| Estimated Time | Deliverables | Related Project (if applicable) |
-| -------------- | ------------ | ------------------------------- |
-|                |              |                                 |
+| Estimated Time | Deliverables | Related Project (if applicable)                 |
+| -------------- | ------------ | ----------------------------------------------- |
+|                |              | [[Task 7 PHP Site Database Planning Report]] |
 
 ## Competencies
 

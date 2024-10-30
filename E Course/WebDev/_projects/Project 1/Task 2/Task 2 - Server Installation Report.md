@@ -6,9 +6,9 @@ For this task, you will be creating a document, detailing the installation, conf
 
 # Project Details
 
-| Estimated Hours | Deliverables | Related Project (if applicable) |
-| --------------- | ------------ | ------------------------------- |
-| 2               | Manual       | Project 1                       |
+| Estimated Hours | Deliverables | Related Task (if applicable)     |
+| --------------- | ------------ | -------------------------------- |
+| 2               | Manual       | [[Task 1 - Server Installation]] |
 
 ## Competencies
 

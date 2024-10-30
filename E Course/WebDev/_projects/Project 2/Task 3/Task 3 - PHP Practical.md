@@ -22,9 +22,9 @@ This setup will allow you to develop and test your website locally, and then eas
 
 # Project Details
 
-| Estimated Time | Deliverables | Linked Project |
-| -------------- | ------------ | -------------- |
-|                | PHP Website  |                |
+| Estimated Time | Deliverables | Linked Project                |
+| -------------- | ------------ | ----------------------------- |
+|                | PHP Website  | [[Task 4 Project Highlights]] |
 
 ## Competencies
 

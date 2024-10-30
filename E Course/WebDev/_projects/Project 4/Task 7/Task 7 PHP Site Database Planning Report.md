@@ -5,7 +5,7 @@ Report,  Planning for group project with user authentication, and other database
 
 | Estimated Time | Deliverables | Related Project (if applicable) |
 | -------------- | ------------ | ------------------------------- |
-|                |              |                                 |
+|                |              | [[Task 8 Group Project]]        |
 
 ## Competencies
 
