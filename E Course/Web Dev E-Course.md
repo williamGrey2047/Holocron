@@ -8,9 +8,7 @@ See [[Course|Course]] for details on the course
 
 ![[Website Development Semester 1#Competencies|Semester 1]]
 
-| Content | Competency |
-| ------- | ---------- |
-|         |            |
+
 
 
 # Semester 2
@@ -22,9 +20,6 @@ See [[Course|Course]] for details on the course
 
 ![[Website Development Semester 2#Competencies]]
 
-| Content | Competency |
-| ------- | ---------- |
-|         |            |
 
 
 # Semester 3
@@ -35,9 +30,6 @@ See [[Course|Course]] for details on the course
 
 ![[Website Development Semester 3#Competencies]]
 
-| Content | Competency |
-| ------- | ---------- |
-|         |            |
 
 
 # Semester 4
@@ -48,9 +40,7 @@ See [[Course|Course]] for details on the course
 
 ![[Website Development Semester 4#Competencies]]
 
-| Content | Competency |
-| ------- | ---------- |
-|         |            |
+
 
 
 
