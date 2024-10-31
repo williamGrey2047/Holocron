@@ -29,10 +29,9 @@ note:
 **NOT THE FINAL FORM.**
 
 ![[Course Overview.png]]
-```md
+
 <!-- slide bg="red" -->
-## Slide with text based background
-```
+
 ---
 # Contact
 

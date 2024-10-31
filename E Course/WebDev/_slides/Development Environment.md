@@ -4,17 +4,16 @@ highlightTheme: zenburn
 css: css/holocronSlides.css
 ---
 
-# PHP
 
-## Goals
-- What is PHP?
+
+# Welcome 
+
+
+Content
 
 ---
 
-# PHP Hypertext Preprocessor
-
-note:
-The name is recursive!
+# Slide 2
 
 --
 
@@ -28,3 +27,4 @@ The name is recursive!
 If you have any questions, please ask!
 
 ![[contactDetails.png]]
+
