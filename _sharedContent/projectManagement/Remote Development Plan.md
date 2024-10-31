@@ -1,15 +1,3 @@
-# Project Management
-
-[User Centred Design](Project%20Management%20fc633744b3da48e9871fa56b5c50a076/User%20Centred%20Design%20783bc3d29635469a950d8ccc8eb8d5e7.md)
-
-[Development Log](Project%20Management%20fc633744b3da48e9871fa56b5c50a076/Development%20Log%20d11ddb3c1e424547acceca0e7c1efef0.md)
-
-[Media Collection](Project%20Management%20fc633744b3da48e9871fa56b5c50a076/Media%20Collection%206ae460ec08e042e1b2805393b238cf08.md)
-
-[Video Production](Project%20Management%20fc633744b3da48e9871fa56b5c50a076/Video%20Production%2080b8b6f96e384b6a83037dc866058c2c.md)
-
-# Remote Development Plan
-
 In an existing, or new Google Doc, document your plan for how the project will continue if there is a period of remote work.
 
 Consider the following questions:
@@ -34,7 +22,3 @@ There will need to be a few cases to consider:
 - Your teacher is working remotely
 - Other members of the project team are working remotely
 - Everyone is working remotely.
-
-Document a plan for all of these cases.
-
-[Identify Development Goals](Project%20Management%20fc633744b3da48e9871fa56b5c50a076/Identify%20Development%20Goals%20f1914a9601e64563b2c122261d926778.md)

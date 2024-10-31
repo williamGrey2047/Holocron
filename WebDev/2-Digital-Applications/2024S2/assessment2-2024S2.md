@@ -5,7 +5,7 @@
 
 For suggestions on how to structure your report, see this page:
 
-[Technical Report Writing](_sharedContent/technicalReportWriting.md)
+[Technical Report Writing](technicalReportWriting.md)
 
 
 # Assessable Topics 
@@ -96,7 +96,7 @@ Focus on how data is transmitted within the project from one sub-system to anoth
 
 ## Development Process
 
-![[_sharedContent/Assessments2024S2/Task 2#Development Process|Task 2]]
+![[Task 2#Development Process|Task 2]]
 
 
 ## Technical Analysis
